@@ -1,6 +1,6 @@
 <?php
 
-namespace SwiftDevLabs\DuplicateDataObject\Forms\GridField;
+namespace StevenPaw\DuplicateDataObject\Forms\GridField;
 
 use SilverStripe\Control\Controller;
 use SilverStripe\Forms\GridField\GridField;
