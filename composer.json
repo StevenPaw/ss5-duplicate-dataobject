@@ -1,12 +1,12 @@
 {
-    "name": "jinjie/ss4-duplicate-dataobject",
+    "name": "stevenpaw/ss5-duplicate-dataobject",
     "description": "Adds a duplicate button to GridField in the CMS that enables duplicating of dataobjects",
     "type": "silverstripe-vendormodule",
     "license": "MIT",
     "authors": [
         {
-            "name": "Kong Jin Jie",
-            "email": "jinjie@swiftdev.sg"
+            "name": "Steven Paw",
+            "email": "stevenpaw.de"
         }
     ],
     "require": {
