@@ -4,10 +4,6 @@
 
 Adds a duplicate button to GridField in the CMS that enables duplicating of dataobjects
 
-## Installation 
-
-``composer require jinjie/ss4-duplicate-dataobject``
-
 ## Usage Example
 
 This module uses the built in DataObject duplication.
